@@ -1,13 +1,10 @@
 {
-  "name": "authentication-web-app",
+  "name": "user-authentication-app",
   "version": "1.0.0",
   "type": "module",
-  "description": "authentication website for study purpose",
+  "description": "user authentication website for study purpose",
   "keywords": [
-    "node.js",
-    "express.js",
-    "nodemon",
-    "postman"
+    "mern"
   ],
   "license": "ISC",
   "author": "sreeram",
