@@ -2,7 +2,7 @@
   "name": "user-authentication-app",
   "version": "1.0.0",
   "type": "module",
-  "description": "user authentication website for study purpose",
+  "description": "user authentication web app for study purpose",
   "keywords": [
     "mern"
   ],
