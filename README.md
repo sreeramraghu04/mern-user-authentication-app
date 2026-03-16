@@ -20,7 +20,7 @@ A fully responsive MERN (MongoDB, Express.js, React.js, Node.js) stack authentic
 - React.js
 - Axios
 - React Router DOM
-- Tailwind CSS / Bootstrap (mention what you used)
+- Tailwind CSS
 
 **Backend:**
 
