@@ -1,4 +1,4 @@
-# 🔐 MERN Authentication App
+# 🔐 MERN User Authentication App
 
 A fully responsive MERN (MongoDB, Express.js, React.js, Node.js) stack authentication web application with login and signup functionality. It features protected routes, JWT-based authentication, and role-based access handling.
 
