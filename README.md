@@ -49,4 +49,4 @@ A fully responsive MERN (MongoDB, Express.js, React.js, Node.js) stack authentic
 
 ## Demo Link
 
-[Live Demo](https://authentication-app.sreeramraghu.online)
+[Live Demo](https://authentication-app.sreeramraghu.online/)
