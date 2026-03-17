@@ -6,7 +6,7 @@ A fully responsive MERN (MongoDB, Express.js, React.js, Node.js) stack authentic
 
 - ✅ User Signup & Login
 - 🔒 Protected Routes using JWT
-- 🧑‍💼 Role-Based Authorization (admin,seller,user)
+- 🧑‍💼 Role-Based Authorization (admin, seller, user)
 - 🌐 Fully Responsive Design
 - 🔁 Persistent Login with Local Storage / Cookies
 - 📦 Backend API with Express & MongoDB
