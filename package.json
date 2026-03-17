@@ -1,10 +1,10 @@
 {
-  "name": "user-authentication-app",
+  "name": "mern-user-authentication-app",
   "version": "1.0.0",
   "type": "module",
-  "description": "user authentication web app for study purpose",
+  "description": "user authentication web app",
   "keywords": [
-    "mern"
+    "mern-stack"
   ],
   "license": "ISC",
   "author": "sreeram",
